@@ -1,4 +1,4 @@
 ﻿{
-    "connectionString": "mongodb://jwt:jwt@ds049661.mlab.com:49661/jwt",
+    "connectionString": "mongodb://peeq:P%40ssw0rd!@ds259820.mlab.com:59820/peeq",
     "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
 }
